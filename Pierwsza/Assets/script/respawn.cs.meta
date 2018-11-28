@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4c9e6bb0b0454774ba8d6ce1365204ec
+timeCreated: 1528308669
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ballPrefab: {fileID: 1064053794897378, guid: 037130bd6400b4e4a91950af3e457a55,
+      type: 2}
+  - cameraPrefab: {fileID: 20260800415568340, guid: 6ce46dc12a3d07a448243149ca15d0c9,
+      type: 2}
+  - lightPrefab: {fileID: 108593263261192270, guid: cabfa7bff07a80441bb34e43cfe39106,
+      type: 2}
+  - levelBase: {fileID: 1759477195450280, guid: 7b4efcecaf0de1a4a81fd29cc20638e3,
+      type: 2}
+  - gameOverBase: {fileID: 1754817492162196, guid: da957f0d3b4ae774e82712376ebff1c8,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
